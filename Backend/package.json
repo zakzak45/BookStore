@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "serve": "node  book.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zakzak45/BookStore.git"
+  },
+  "private": true
+}

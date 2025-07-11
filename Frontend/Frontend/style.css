@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    padding: 2rem;
+}
+
+input {
+    margin: 0.5rem;
+    padding: 0.4rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+}
+
+li {
+    background: #eee;
+    margin: 0.5rem 0;
+    padding: 1rem;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
